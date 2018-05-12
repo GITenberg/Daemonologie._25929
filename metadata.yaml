@@ -1,0 +1,31 @@
+_repo: Daemonologie._25929
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James I, King of England
+    alias: James VI, King of Scotland
+    birthdate: 1566
+    deathdate: 1625
+    gutenberg_agent_id: '7089'
+    url: http://www.gutenberg.org/2009/agents/7089
+    wikipedia: http://en.wikipedia.org/wiki/James_I_of_England
+description: ''
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcc 'BF'
+- !lcsh 'Witchcraft -- Scotland'
+- !lcsh 'Fian, John, -1591'
+- !lcsh 'Demonology'
+title: Daemonologie.
+url: http://www.gutenberg.org/ebooks/25929
